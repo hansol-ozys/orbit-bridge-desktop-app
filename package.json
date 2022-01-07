@@ -1,0 +1,15 @@
+{
+  "name": "orbit_bridge_desktop_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yoon Hansol",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.6"
+  }
+}
